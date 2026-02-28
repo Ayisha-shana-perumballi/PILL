@@ -1,0 +1,8 @@
+{
+  "name": "PillCare",
+  "description": "A modern mobile healthcare application for medication adherence tracking and reminders, featuring AI insights and visual analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
